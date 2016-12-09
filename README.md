@@ -1,2 +1,5 @@
 # hello-world
-my repository
+
+Hi!
+
+I hope to learn coding because it seems fun.
